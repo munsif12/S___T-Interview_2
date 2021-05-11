@@ -1,0 +1,25 @@
+.Navbar {
+  width: 100vw;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.common {
+  margin: 10px 5px;
+  border: 2px solid black;
+  padding: 10px 22px;
+  text-decoration: none;
+  color: black;
+}
+.active {
+  background: lightgray;
+  font-weight: bolder;
+}
